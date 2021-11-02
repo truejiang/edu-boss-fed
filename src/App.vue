@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <h1 class="text">拉钩教育</h1>
     <!-- 根路由路口 -->
     <router-view/>
   </div>
